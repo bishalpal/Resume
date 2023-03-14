@@ -1,0 +1,16 @@
+.labels {
+    font-weight: bold;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+.duration, .cgpa {
+    color: grey;
+    font-size: smaller;
+}
+
+.cgpa {
+    text-align: right;
+}
